@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+
+.main{
+    background-color: hsla(216, 24%, 8%, 0.692);
+    display: flex;
+    color: aliceblue;
+    
+}
+
+.background{
+    background-repeat: no-repeat;
+    background-image:url("https://cdn.statically.io/img/codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg?f=webp&w=720");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
